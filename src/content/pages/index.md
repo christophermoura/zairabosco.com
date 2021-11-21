@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-She is a Sociologist / UX Researcher / UX Writer, based in Porto (Portugal).
+Sociologist / UX Researcher / UX Writer, based in Porto (Portugal).
