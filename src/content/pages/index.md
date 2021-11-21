@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Zaíra Bosco
+title: Zaíra Bosco Go Banana, UX!
 tagline: UX Researcher / UX Writer
 featuredImage: /assets/zaira-profile-01.png
 cta:
